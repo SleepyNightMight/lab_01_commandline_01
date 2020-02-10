@@ -159,7 +159,9 @@ $ pwd
 
 Copy and paste the output into the space below.
 ----------
-
+-bash: cd: /unknown_folder: No such file or directory
+v314-ent-008:~ student$ pwd
+/Users/student
 
 
 ==========
@@ -209,6 +211,7 @@ lemon
 
 Use only one command to make all of these new directories.  Write what command you used below:
 ----------
+mkdir -p lemon/orange/strawberry/lemon
 
 
 
@@ -217,7 +220,7 @@ Use only one command to make all of these new directories.  Write what command y
 
 Write the command you used to create the directory below:
 ----------
-
+mkdir aardvark
 
 
 ==========
@@ -225,7 +228,7 @@ Write the command you used to create the directory below:
 
 What is the modified date of the aardvark directory?
 ----------
-
+drwxr-xr-x  2 student  staff   68 Feb 10 16:54 aardvark
 
 
 ==========
@@ -237,7 +240,7 @@ What is the modified date of the aardvark directory?
 
 What command did you use?
 ----------
-
+mkdir -p foo/bar/baz
 
 
 ==========
@@ -245,7 +248,7 @@ What command did you use?
 
 What command did you use?
 ----------
-
+cd baz
 
 
 ==========
@@ -253,12 +256,12 @@ What command did you use?
 
 What command did you use?
 ----------
-
+../..
 
 ==========
 24. What command is used to delete empty directories?
 ----------
-
+rmdir
 
 
 ==========
@@ -270,25 +273,25 @@ pwd
 ==========
 26. What flag do I pass to ls to print out all files?
 ----------
-
+-l
 
 
 ==========
 27. What's the shortcut for home directory?
 ----------
-
+~
 
 
 ==========
 28. What's a pathname?
 ----------
-
+name of the of a file or directory, specifies a unique location in a file
 
 
 ==========
 29. What's a directory?
 ----------
-
+another name for folders and can contain files and/or other directories
 
 
 ==========
